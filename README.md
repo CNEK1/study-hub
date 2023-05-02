@@ -4,7 +4,7 @@ Study Hub is a web application built with React that provides access to various 
 # Getting Started
 To get started with Study Hub, you will need to have Node.js and npm installed on your computer. Once you have these dependencies, follow the steps below to install and run the project:
 
-Clone this repository: git clone https://github.com/<your-username>/study-hub.git
+Clone this repository: git clone https://github.com/CNEK1/study-hub.git
 Change into the project directory: cd study-hub
 Install dependencies: npm install
 Start the development server: npm run dev
