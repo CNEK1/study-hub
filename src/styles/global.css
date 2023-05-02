@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+
+  color: var(--black);
+  background: #eceae4;
+
+  font-family: "DM Sans", sans-serif;
+}
+
+a {
+  text-decoration: none;
+
+  color: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --black: #2b2d42;
+  --white: #fff;
+  /* --grey-light: #c5c3c3; */
+  --grey-light: #a4a4a4;
+  --primary: #746d73;
+  --primary-hover: #8a8188;
+  --red: #d33f49;
+  --green: #1dc37e;
+  --green-light: #c8f8e4;
+  --font-family: "DM Sans", sans-serif;
+}

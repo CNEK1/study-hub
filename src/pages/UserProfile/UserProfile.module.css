@@ -1,0 +1,9 @@
+.infoBox {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.userWrapper {
+  display: flex;
+  gap: 50px;
+}
